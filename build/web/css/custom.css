@@ -1,0 +1,17 @@
+/* Archivo custom.css */
+.sidebar-dark-green {
+    background-color: #28a745 !important; /* Verde */
+    color: #fff !important; /* Texto blanco */
+}
+
+.sidebar-dark-green .nav-link {
+    color: #fff !important; /* Texto blanco */
+}
+
+.sidebar-dark-green .nav-link:hover {
+    background-color: #218838 !important; /* Verde oscuro al pasar el mouse */
+}
+
+.sidebar-dark-green .nav-icon {
+    color: #fff !important; /* Iconos en blanco */
+}
